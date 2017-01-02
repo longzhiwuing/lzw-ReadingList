@@ -4,7 +4,7 @@
 
 - 好玩的数学
 - 《社会心理学》第十版－迈尔斯
-##编码:
+## 编码:
 - 《Clean Code》作者: Robert C. Martin
 - 《重构》作者: Martin Fowler
 - 《测试驱动开发》作者: Kent Beck
@@ -12,18 +12,18 @@
 - 《Ruby元编程》作者: [意] Paolo Perrotta
 - 《领域特定语言》作者: Martin Fowler
 - 《白帽子讲Web安全》作者: 吴翰清
-##交互运维:
+## 交互运维:
 - 《持续交付》作者: Jez Humble / David Farley
 - 《SRE：Google运维解密》作者: 【美】Betsy Beyer（贝特西 拜尔）等
-##架构:
+## 架构:
 - 《REST实战》作者: Jim Webber / Savas Parastatidis / Ian Robinson
 - 《大规模Web服务开发技术》作者: 伊藤直也 / 田中慎司
 - 《实现领域驱动设计》作者: Vaughn Vernon
-##实践:
+## 实践:
 - 《用户故事与敏捷方法》作者: Mike Cohn
 - 《看板方法》作者: David J. Anderson
 - 《敏捷软件测试》作者: (美)克里斯平//格雷戈里|译者:孙伟峰//崔康
-##前端
+## 前端
 >《javascript面向对象编程指南》，风格轻松易懂，比较适合初学者，原型那块儿讲得透彻，12种继承方式呢。
 
 >《js权威指南》、《js高级程序设计》，这两本书经典是经典，但是太厚，适合把其中任意一章都当成一本书来读。洋洋洒洒，很难一口气看完。比较适合当做参考书。
