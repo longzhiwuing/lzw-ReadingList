@@ -17,6 +17,7 @@
 - 《白帽子讲Web安全》作者: 吴翰清(推荐)
 - 《Java RESTful Web Service实战（第2版）》
 - 《JavaEE开发的颠覆者 Spring Boot实战》
+- 《Shiro教程》
 
 ## 待读列表
 
