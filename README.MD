@@ -18,6 +18,7 @@
 - 《Java RESTful Web Service实战（第2版）》
 - 《JavaEE开发的颠覆者 Spring Boot实战》
 - 《Shiro教程》
+- 《重构_改善既有代码的设计》(通读)
 
 ## 待读列表
 
@@ -29,7 +30,6 @@
 ## 编码:
 
 - 《Clean Code》作者: Robert C. Martin
-- 《重构》作者: Martin Fowler
 - 《测试驱动开发》作者: Kent Beck
 - 《深入理解Java虚拟机》作者: 周志明
 - 《Ruby元编程》作者: [意] Paolo Perrotta
