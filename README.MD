@@ -22,6 +22,7 @@
 - 《REDIS 入门指南》
 - 《CSS权威指南 第3版》（通读）
 - 《ElasticSearch可扩展的开源弹性搜索解决方案》
+- 《A Byte of Python》(简明 Python 教程)(推荐)
 
 ## 待读列表
 
