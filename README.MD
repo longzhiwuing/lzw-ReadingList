@@ -23,6 +23,7 @@
 - 《CSS权威指南 第3版》（通读）
 - 《ElasticSearch可扩展的开源弹性搜索解决方案》
 - 《A Byte of Python》(简明 Python 教程)(推荐)
+- 《mesos大数据资源调度与大规模容器运行最佳实践》（通读）
 
 ## 待读列表
 
